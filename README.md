@@ -15,6 +15,10 @@
 
 - [NFS](https://github.com/winnfsd/vagrant-winnfsd)
 
+## Windows Linux Subsystem
+
+- https://superuser.com/questions/1111591/how-can-i-ssh-into-bash-on-ubuntu-on-windows-10#
+
 ## Theme
 
 - [How to Get Colored Window Title Bars on Windows 10 (Instead of White)](http://www.howtogeek.com/222831/how-to-get-colored-window-title-bars-on-windows-10-instead-of-white/)
