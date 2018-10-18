@@ -18,6 +18,7 @@
 ## Windows Linux Subsystem
 
 - https://superuser.com/questions/1111591/how-can-i-ssh-into-bash-on-ubuntu-on-windows-10#
+- https://github.com/JetBrains/clion-wsl/blob/master/ubuntu_setup_env.sh
 
 ## Theme
 
