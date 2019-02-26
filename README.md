@@ -1,4 +1,4 @@
-# Windows Web Developer Setup
+# Windows Web Developer Setup :squirrel:
 
 ## Apps
 
