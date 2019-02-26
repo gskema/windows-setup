@@ -1,5 +1,7 @@
 # Windows Web Developer Setup :squirrel:
 
+:squirrel:
+
 ## Apps
 
 1. [Chocolatey](https://chocolatey.org/install)
